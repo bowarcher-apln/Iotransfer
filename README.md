@@ -222,4 +222,4 @@ IOTransfer is available for free download, providing users with the full version
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-10-03 19:35:08 UTC
+**Last updated:** 2026-10-03 22:31:16 UTC
